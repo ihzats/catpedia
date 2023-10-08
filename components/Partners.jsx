@@ -15,7 +15,7 @@ export default function Partners() {
     slidesToScroll: 1,
   };
   return (
-    <div className="container mt-28 pb-8 min-h-[10px] w-full">
+    <div className="container mb-24 min-h-[10px] w-full">
       <div className="text-xl font-bold text-center p-16 text- mx-auto text-bold">Our Partners</div>
       <div className="bg-teal-200 wrapper justify-between items-center py-7 shadow-md rounded-md mix-blend-color-burn px-8 ">
         <div className="slidepartner items-center">

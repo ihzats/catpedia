@@ -6,7 +6,7 @@ import React from 'react';
 export default function Hero() {
 
     return (
-        <div className="container pt-12">
+        <div className="container pt-24">
             <div className="mx-auto p-4 mt-8 lg:flex lg:justify-between lg:px-20 shadow-xl rounded-md bg-slate-300">
                 <div className="flex flex-col justify-center max-w-lg lg:mr-12">
                     <h1 className="font-black text-2xl lg:text-4xl lg:leading-[77px]">

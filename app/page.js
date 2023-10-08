@@ -1,4 +1,4 @@
-import { About, Catalouge, Hero, Partners } from '@/components'
+import { About, Catalouge, Footer, Hero, Partners, Review } from '@/components'
 import Navbar from '@/components/Navbar'
 import Image from 'next/image'
 
@@ -7,9 +7,11 @@ export default function Home() {
     <main>
       <Navbar />
       <Hero />
-      <Partners />
       <About />
       <Catalouge />
+      <Partners />
+      <Review />
+      <Footer/>
     </main>
   )
 }
