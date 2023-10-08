@@ -3,7 +3,7 @@ import Hero from "./Hero";
 import Partners from "./Partners"
 import About from "./About";
 import Catalouge from "./Catalouge";
-import Review from "./review";
+import Review from "./Review";
 import Footer from "./Footer";
 
 export { Navbar, Hero, Partners, About, Catalouge, Review, Footer }
