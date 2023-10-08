@@ -46,13 +46,13 @@ export default function Navbar() {
                             <Link href="/">Home</Link>
                         </li>
                         <li>
-                            <Link href="/Catpage">Catalogue</Link>
+                            <Link href="/catpage">Catalogue</Link>
                         </li>
                         <li>
-                            <Link href="/">Shop</Link>
+                            <Link href="/shop">Shop</Link>
                         </li>
                         <li>
-                            <Link href="/">Contact Us</Link>
+                            <Link href="/contact">Contact Us</Link>
                         </li>
                     </ul>
                     <div className="mt-6 lg:mt-0">
