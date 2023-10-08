@@ -11,4 +11,4 @@ import Shop from "./Shop";
 import Contact from "./Contact";
 
 
-export { Navbar, Hero, Partners, About, Catalouge, Review, Footer, Catapage, Card, Shop, Contact }
+export { Navbar, Hero, Partners, About, Catalouge, Review, Footer, Card, Shop, Catapage, Contact }
